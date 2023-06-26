@@ -36,19 +36,16 @@ In this project, I use a raspberry pi pico with a rotary encoder to control the 
   
    - STL [File]()
 
-<h2>Setup For Home Assistant</h2>
 
-   Home assistant dot discovers the entities automatically, so the switch.yml should place in your home assistant configuration folder for the device to work 
- 
 <h2>ScreenShots</h2> 
 
 <p align="center">
  <br/>
-<img src="https://github.com/delta010/PC-Remote-ON_OFF-Controll/assets/29528880/97a3cd97-1164-46bf-bf81-2cf73cbf5fa1" />
+<img src="" />
 <br />
 
 
-<img src="https://github.com/delta010/PC-Remote-ON_OFF-Controll/assets/29528880/4c1710f2-741e-413b-b12d-1aaa8dc4a9df"/>
+<img src=""/>
 <br />
 <br />
 
