@@ -28,13 +28,13 @@ In this project, I use a raspberry pi pico with a rotary encoder to control the 
 
  <h2>firmware </h2>
 
-   - Arduino Sketch [file](https://github.com/delta010/PC-Remote-ON_OFF-Controll/blob/main/pcmcu.ino)
+   -  Circuit Python code For Raspberry pi Pico [file](https://github.com/delta010/Raspberry_Pi_Pico_Media_Controller/blob/main/code.py)
 
  
 
-<h2>Custom PCB Gerber</h2>
+<h2>Custom 3D Printed  Case</h2>
   
-   -  Gerber [File](https://github.com/delta010/PC-Remote-ON_OFF-Controll/blob/main/pcpowerwifi.zip)
+   - STL [File]()
 
 <h2>Setup For Home Assistant</h2>
 
