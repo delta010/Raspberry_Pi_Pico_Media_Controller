@@ -41,7 +41,7 @@ In this project, I use a raspberry pi pico with a rotary encoder to control the 
 
 <p align="center">
  <br/>
-<img src="" />
+<img src="(https://github.com/delta010/Raspberry_Pi_Pico_Media_Controller/assets/29528880/19586891-7128-4425-842f-a82ce709288d)" />
 <br />
 
 
