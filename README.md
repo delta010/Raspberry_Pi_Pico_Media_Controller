@@ -34,7 +34,7 @@ In this project, I use a raspberry pi pico with a rotary encoder to control the 
 
 <h2>Custom 3D Printed  Case</h2>
   
-   - STL [File]()
+   - STL [File](https://github.com/delta010/Raspberry_Pi_Pico_Media_Controller/tree/main/stl)
 
 
 <h2>ScreenShots</h2> 
